@@ -45,7 +45,8 @@ This is a **Random Quote Generator** that displays inspirational quotes. Users c
    git clone https://github.com/your-username/random-quote-generator.git
    ```
 2. **Open `index.html`** in a browser.
-3. Enjoy generating quotes!
+3. or go to https://inspiring-crumble-df36f2.netlify.app/
+4. Enjoy generating quotes!
 
 ## 🎯 Future Improvements
 - Add **more quote categories** (Motivational, Funny, Life, etc.).
